@@ -1,0 +1,33 @@
+.changeset/quiet-tools-smile.md
+  s_6cc9ec9e5c5eb1::t_2242c587bb2a4f 1-7
+packages/deploy-helpers/src/deploy/helpers/provision-bindings.ts
+  s_6cc9ec9e5c5eb1::t_416184e4a23d44 248-252
+packages/deploy-helpers/src/deploy/versions-upload.ts
+  s_4e8e0385ed1508::t_6d90a2356de4e0 15,437-452
+packages/wrangler/src/__tests__/provision.test.ts
+  s_4e8e0385ed1508::t_26d5fd7074c9e0 1544-1582
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "13d765dad946084a719a7db05411a63287add7d6",
+  "prompts": {},
+  "sessions": {
+    "s_4e8e0385ed1508": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa7e00ec4ffeFMIg1Eb7o54XE7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    },
+    "s_6cc9ec9e5c5eb1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fcbf2ee71ffenp85ezGC3DwYHe",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    }
+  }
+}
