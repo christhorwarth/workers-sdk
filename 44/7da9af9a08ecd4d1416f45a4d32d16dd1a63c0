@@ -1,0 +1,31 @@
+.changeset/fuzzy-waves-delete.md
+  s_089c8cc720243f::t_ead34f8b0d57e0 1-7
+packages/wrangler/src/__tests__/delete.test.ts
+  s_089c8cc720243f::t_ed0ef7d8f11282 227-255
+packages/wrangler/src/delete.ts
+  s_6cc9ec9e5c5eb1::t_d201967dfcc2b3 5,158-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "447da9af9a08ecd4d1416f45a4d32d16dd1a63c0",
+  "prompts": {},
+  "sessions": {
+    "s_089c8cc720243f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feaa3b0d5ffebQeeyoN7OuWoKr",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    },
+    "s_6cc9ec9e5c5eb1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fcbf2ee71ffenp85ezGC3DwYHe",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    }
+  }
+}
