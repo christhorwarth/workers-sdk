@@ -1,0 +1,27 @@
+.changeset/quiet-tools-smile.md
+  s_c1d096f4dfd3ff::t_c956b951e00489 7
+packages/remote-bindings/src/utils/create-worker-preview.ts
+  s_c1d096f4dfd3ff::t_c493b37b5cb923 209
+packages/wrangler/src/__tests__/api/startDevWorker/RemoteRuntimeController.test.ts
+  s_c1d096f4dfd3ff::t_62097c3b396def 435
+packages/wrangler/src/__tests__/dev/remote-bindings-errors.test.ts
+  s_c1d096f4dfd3ff::t_06166cb51ef131 65
+packages/wrangler/src/dev/create-worker-preview.ts
+  s_c1d096f4dfd3ff::t_06ec9b6320df62 190,195,224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4fdd61ddb40d047defd25a5fe011c042eb375849",
+  "prompts": {},
+  "sessions": {
+    "s_c1d096f4dfd3ff": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa2f46b94ffeNgsBiNOG73aExY",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    }
+  }
+}
