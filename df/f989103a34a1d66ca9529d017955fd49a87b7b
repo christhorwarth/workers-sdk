@@ -1,0 +1,19 @@
+packages/wrangler/src/__tests__/dev/create-worker-preview.test.ts
+  s_b9ffec2efc96d8::t_b3c220f2af8e6d 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dff989103a34a1d66ca9529d017955fd49a87b7b",
+  "prompts": {},
+  "sessions": {
+    "s_b9ffec2efc96d8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa2086f92ffeeZ2JycWp8Dd7Li",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    }
+  }
+}
