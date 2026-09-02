@@ -1,0 +1,21 @@
+packages/remote-bindings/src/utils/create-worker-preview.ts
+  s_b9ffec2efc96d8::t_f5391202b304e3 57-75,240-248
+packages/wrangler/src/dev/create-worker-preview.ts
+  s_b9ffec2efc96d8::t_689b915f78f9c0 127-145,234-236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "abb12849a5febdb213e33a5fa357a18df3b68bf0",
+  "prompts": {},
+  "sessions": {
+    "s_b9ffec2efc96d8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa2086f92ffeeZ2JycWp8Dd7Li",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    }
+  }
+}
