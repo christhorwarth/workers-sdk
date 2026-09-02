@@ -1,0 +1,21 @@
+packages/deploy-helpers/src/triggers/deploy.ts
+  s_b9ffec2efc96d8::t_84913536e231cf 79-88,493-495,722,731-736,820
+packages/deploy-helpers/src/triggers/subdomain.ts
+  s_b9ffec2efc96d8::t_84299062bbebbf 39-64,83-86,91,93-96,101-114,117-123,138-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4acfc5d0b64d47b626d856f8150e0e1388933747",
+  "prompts": {},
+  "sessions": {
+    "s_b9ffec2efc96d8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa2086f92ffeeZ2JycWp8Dd7Li",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Chris Thorwarth <cthorwarth@cloudflare.com>"
+    }
+  }
+}
